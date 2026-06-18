@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.meow.accounting",
+      "sha256_cert_fingerprints": [
+        "86:98:14:83:E1:32:18:0C:A7:4F:B0:91:DF:24:98:9B:7F:CC:46:0F:4B:C8:EC:4A:9A:BC:12:97:8B:BB:83:F6"
+      ]
+    }
+  }
+]
